@@ -2,6 +2,8 @@
     {
         "id": 1,
         "name": "Neel"
+        "course":"Devops"
+        
     },
     {
         "id": 2,
